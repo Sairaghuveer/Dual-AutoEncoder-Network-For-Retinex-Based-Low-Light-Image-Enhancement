@@ -15,9 +15,9 @@ Paper:  Park, Seonhee, et al. "Dual autoencoder network for
 
 Link: https://ieeexplore.ieee.org/abstract/document/8307190 
 
-Software Tools: TensorFlow, OpenVino Toolkit, Python 3.5.6 (Anaconda) (64-bit)
+Software Tools: TensorFlow, Keras, Python 3.5.6 (Anaconda) (64-bit), jupyter-notebook, google colab
 
-Hardware Tools: PC, Intel Movidius Neural Compute Stick
+Hardware Tools: PC
 
 Project Implementation:
 
