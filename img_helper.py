@@ -1,6 +1,8 @@
 import numpy as np
 from random import uniform
 from skimage.color import rgb2hsv,hsv2rgb
+from matplotlib import pyplot as plt
+from tensorflow.keras.preprocessing.image import array_to_img
 
 
 # Covert a set of images from RGB to HSV colour space
